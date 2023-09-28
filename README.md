@@ -1,4 +1,4 @@
-# SQL_DATA-ANALYST_PROJECTS
+# SQL_DATA-ANALYST_BASIC_PROJECTS/CAR_DEKHO
 CAR_DEKHO
 **DOMAIN** - Car Sales Data Analysis
 In this small and basic project i treid to solve some pure basic queries......
